@@ -9,7 +9,8 @@ body:
         label: Important checkbox
         options:
         - label: I am certain my issue has not already been reported or addressed
-          required: true
+    validations:
+      required: true
   - type: dropdown
     id: severity
     attributes:
