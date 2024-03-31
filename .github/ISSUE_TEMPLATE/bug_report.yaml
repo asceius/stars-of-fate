@@ -9,7 +9,6 @@ body:
       label: Important checkbox
       options:
       - label: I am certain my issue has not already been reported or addressed
-      validations:
         required: true
   - type: dropdown
     id: severity
@@ -20,8 +19,8 @@ body:
         - Benign
         - Disruptive
         - Game Breaking
-      validations:
-        required: true
+    validations:
+      required: true
   - type: dropdown
     id: ability
     attributes:
