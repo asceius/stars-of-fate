@@ -6,7 +6,7 @@
 
 
 <details>
-  <summary>Roblox fighting game inspired by a story consisting of (currently) 9 extensive chapters, where the protagonist and their friends go on adventures that just so happen to be more bizarre than the last.</summary>
+  <summary>Fatestars is a Roblox fighting game inspired by a story consisting of (currently) 9 extensive chapters, where the chapter-exclusive protagonist and gang go on adventures that just so happen to be more bizarre than the last.</summary>
   
   `Yes, this is based on Jojo's Bizarre Adventure.`
 </details>
