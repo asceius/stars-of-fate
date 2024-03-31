@@ -6,9 +6,9 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Important checkbox
+      label: Acknowledgement
       options:
-      - label: I am certain my issue has not already been reported or addressed
+      - label: I am certain my issue has not already been reported or addressed.
         required: true
   - type: dropdown
     id: severity
@@ -24,10 +24,10 @@ body:
   - type: dropdown
     id: ability
     attributes:
-      label: Which abilities does this issue affect (if applicable)
+      label: Which abilities does this issue affect (if applicable)?
       options:
         - All Abilities
-        - Specific Abilities (please specify)
+        - Specific Abilities (please specify below)
   - type: textarea
     id: what-happened
     attributes:
@@ -40,5 +40,5 @@ body:
   - type: input
     id: evidence
     attributes:
-      label: Bug evidence
+      label: Bug evidence.
       description: If possible, please provide links to videos or screenshots of the bug occuring
