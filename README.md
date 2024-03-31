@@ -13,6 +13,6 @@
 
 This is a repository for welcoming and returning translators and bug reporters, as well as an archive for changelogs of published versions.
 
-Want to become a translator? Join the [Discord Server](https://discord.gg/R69gW6A) and send a request of the language you could translate for in #channel-name.
+Want to become a translator? Join the [Discord Server](https://discord.gg/R69gW6A) and send a request of the language you could translate for in the #channel-name text channel.
 
 Notice a bug in-game? Submit an issue [here](https://github.com/asceius/fatestars/issues).
