@@ -3,20 +3,42 @@ description: Submit a bug report
 title: "[BUG]"
 labels: bug
 body:
-- type: checkboxes
-  id: terms
-  attributes:
+  - type: checkboxes
+    id: terms
+    attributes:
+        label: Important checkbox
+        options:
+        - label: I am certain my issue has not already been reported or addressed
+          required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: How severe is this issue?
+      multiple: false
       options:
-      - label: I am certain my issue has not already been reported or addressed
+        - Benign
+        - Disruptive
+        - Game Breaking
+      validations:
         required: true
-- type: dropdown
-  id: severity
-  attributes:
-    label: How severe is this issue?
-    multiple: false
-    options:
-      - Benign
-      - Disruptive
-      - Game Breaking
+  - type: dropdown
+    id: ability
+    attributes:
+      label: Which abilities does this issue affect (if applicable)
+      options:
+        - All Abilities
+        - Specific Abilities (please specify)
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Bug description.
+      description: |
+        - Try to be as accurate with information as possible.
+         - Be sure to describe how this bug can be replicated, or recite what happened before this bug.
     validations:
       required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: Bug evidence
+      description: If possible, please provide links to videos or screenshots of the bug occuring
