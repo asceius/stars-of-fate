@@ -6,11 +6,11 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-        label: Important checkbox
-        options:
-        - label: I am certain my issue has not already been reported or addressed
-    validations:
-      required: true
+      label: Important checkbox
+      options:
+      - label: I am certain my issue has not already been reported or addressed
+      validations:
+        required: true
   - type: dropdown
     id: severity
     attributes:
