@@ -1,0 +1,27 @@
+---
+name: Bug report
+about: Submit a bug report
+title: "[BUG]"
+labels: bug
+assignees: ''
+
+---
+
+body:
+- type: checkboxes
+  id: terms
+  attributes:
+      options:
+      - label: I am certain my issue has not already been reported or addressed
+        required: true
+- type: dropdown
+  id: severity
+  attributes:
+    label: How severe is this issue?
+    multiple: false
+    options:
+      - Benign
+      - Disruptive
+      - Game Breaking
+    validations:
+      required: true
