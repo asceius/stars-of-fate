@@ -7,7 +7,7 @@ return {
 	settings_submenu_controls = "Controls";
 	settings_submenu_misc = "Etc.";
 
-	settings_language_self = "English";
+	settings_language_self = "English"; -- Language name, not "English" translation
 
 	settings_options_on = "On";
 	settings_options_off = "Off";
@@ -64,7 +64,7 @@ return {
 	-- // Tips
 
 	--[[
-		[key:Button] for the message to use the KeyCode Name the player has set
+		[key:Button] for the message to use the KeyCode Name the player has set, KeyCode Names should not be translated
 		Example: "Press [key:Barrage] to barrage" would turn into "Press E to barrage"
 			
 		Button Names: Barrage, Block, Dodge, Heavy, Kick, Mouse, Movement, ProjectileA, ProjectileB, Run, SpecialA, SpecialB, SpecialC, Summon, Taunt
