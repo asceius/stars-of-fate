@@ -65,7 +65,7 @@ return {
 
 	--[[
 		[key:Button] for the message to use the KeyCode Name the player has set, KeyCode Names should not be translated
-		Example: "Press [key:Barrage] to barrage" would turn into "Press E to barrage"
+		Example: "Press [key:Barrage] to barrage" would turn into "Press E to barrage" when displayed in chat
 			
 		Button Names: Barrage, Block, Dodge, Heavy, Kick, Mouse, Movement, ProjectileA, ProjectileB, Run, SpecialA, SpecialB, SpecialC, Summon, Taunt
 	--]]
@@ -120,12 +120,12 @@ return {
 	moves_common_legsweep = "Leg Sweep";
 	moves_common_timestop = "Timestop";
 	moves_common_quicktimestop = "Quick Timestop";
-	
-	
+
+
 	-- // Standless
-	
+
 	names_standless = "None";
-	
+
 
 	-- // Star Platinum
 
@@ -139,12 +139,12 @@ return {
 	moves_starplatinum_soda = "Refreshment";
 	moves_starplatinum_beatdown = "beatdown name";
 	moves_starplatinum_tandem = "Judgement";
-	moves_starplatinum_starfinger = "Star Finger";
+	moves_starplatinum_starfinger = "Star Finger!";
 	moves_starplatinum_launcher = "Star Launcher";
-	
-	
+
+
 	-- // The World
-	
+
 	names_theworld = "The World";
 
 
@@ -166,10 +166,10 @@ return {
 	moves_crazydiamond_tandem = "You're In My Range";
 	moves_crazydiamond_wall = "Wall Creation";
 	moves_crazydiamond_rageuppercut = "Enraged Uppercut";
-	
-	
+
+
 	-- // D4C
-	
+
 	names_d4c = "D4C";
 
 
@@ -192,10 +192,10 @@ return {
 	moves_starplatinumtheworld_burst = "Burst";
 	moves_starplatinumtheworld_campfire = "Campfire";
 	moves_starplatinumtheworld_counter = "Counter";
-	
-	
+
+
 	-- // Spin
-	
+
 	names_spin = "Spin";
 
 
@@ -213,4 +213,5 @@ return {
 	moves_boxing_haymaker = "Jolt Haymaker";
 	moves_boxing_lunge = "Straight Lunge";
 	moves_boxing_rapidjab = "Rapid Jab";
+	moves_boxing_tripwire = "Tripwire";
 }
