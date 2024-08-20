@@ -146,6 +146,14 @@ return {
 	-- // The World
 
 	names_theworld = "The World";
+	
+	moves_theworld_heavy = "if you see this please suggest a name for this move";
+	moves_theworld_barrage = "Kick Barrage";
+	moves_theworld_kick = "Calf Kick";
+	moves_theworld_sign = "Traffic Check";
+	moves_theworld_knives = "Knife Volley";
+	moves_theworld_debris = "Debris Slam";
+	moves_theworld_tandem = "Superior Tandem";
 
 
 	-- // Crazy Diamond
