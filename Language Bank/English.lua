@@ -7,7 +7,7 @@ return {
 	settings_submenu_controls = "Controls";
 	settings_submenu_misc = "Etc.";
 
-	settings_language_self = "English"; -- Language name, not "English" translation
+	settings_language_self = "English"; -- Language name, not "English" translation (would be "Español" in Spanish for example)
 
 	settings_options_on = "On";
 	settings_options_off = "Off";
@@ -89,7 +89,7 @@ return {
 	tips_tip17 = "As a non-stand user, you can attack stands that are actively using moves. This also applies to stand-users with character attacks.";
 	tips_tip18 = "As a stand user, you can begin a stand attack while attacking with your character. A common application would be S.Off-[key:Mouse] x3 > [key:Summon] > [key:Barrage]";
 	tips_tip19 = "S.Off and S.On is common terminology in the community for Stand-Off and Stand-On respectively.";
-	tips_tip20 = "Stopping time is very expensive and will expend all your cards during usage. Be sure to have plenty if you plan to stop time effectively.";
+	tips_tip20 = "Stopping time is very expensive and will expend all your cards during usage. Be sure to have plenty on hand if you plan to stop time effectively.";
 	tips_tip21 = "Star Platinum's Star Launcher move damages everyone in the path of the person you're throwing. Be sure to aim at crowds for extra meter gain!";
 
 	tips_rker = "Remember, random killing does not exist in a fighting game such as this one.";
@@ -147,7 +147,7 @@ return {
 
 	names_theworld = "The World";
 	
-	moves_theworld_heavy = "if you see this please suggest a name for this move";
+	moves_theworld_heavy = "Swift Punt";
 	moves_theworld_barrage = "Kick Barrage";
 	moves_theworld_kick = "Calf Kick";
 	moves_theworld_sign = "Traffic Check";
