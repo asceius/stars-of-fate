@@ -29,8 +29,8 @@ body:
         - Unrelated to an ability
         - All Abilities
         - Specific Abilities (please specify below)
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:
