@@ -26,8 +26,11 @@ body:
     attributes:
       label: Which abilities does this issue affect (if applicable)?
       options:
+        - Unrelated to an ability
         - All Abilities
         - Specific Abilities (please specify below)
+      validations:
+        required: true
   - type: textarea
     id: what-happened
     attributes:
