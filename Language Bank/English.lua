@@ -184,6 +184,11 @@ return {
 	-- // Whitesnake
 
 	names_whitesnake = "Whitesnake";
+	
+	moves_whitesnake_chop = "Overhead Chop";
+	moves_whitesnake_swipekick = "Swipe Kick";
+	moves_whitesnake_knee = "Holy Knee";
+	moves_whitesnake_kick = "Dive Kick";
 
 
 	-- // Star Platinum: The World
