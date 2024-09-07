@@ -36,6 +36,70 @@
 		"BlacklistId": "34665589",
 	},
 	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "194098369",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "4096565",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "34610460",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "34553616",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "34689489",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "32536194",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "34663518",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "34624977",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "34387797",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "34717856",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "34713875",
+	},
+	{
+		"BlacklistType": "Accessory",
+		"BlacklistId": "18169374921"
+	},
+	{
+		"BlacklistType": "Accessory",
+		"BlacklistId": "18169375992"
+	},
+	{
+		"BlacklistType": "Accessory",
+		"BlacklistId": "18169380087"
+	},
+	{
+		"BlacklistType": "Accessory",
+		"BlacklistId": "18169390106"
+	},
+	{
+		"BlacklistType": "Accessory",
+		"BlacklistId": "18169361669"
+	},
+	{
 		"BlacklistType": "Accessory",
 		"BlacklistId": "17748505421"
 	},
