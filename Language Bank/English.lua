@@ -109,7 +109,9 @@ return {
 
 
 	-- // Generic / Commonly Shared Moves
-
+	
+	moves_noname = "Unnamed Move";
+	
 	moves_generic_heavy = "Heavy Punch";
 	moves_generic_barrage = "Barrage";
 	moves_generic_dodge = "Dodge";
