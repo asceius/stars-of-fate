@@ -116,17 +116,27 @@ return {
 	moves_generic_barrage = "Barrage";
 	moves_generic_dodge = "Dodge";
 	moves_generic_neutral = "Neutral";
+	moves_generic_counter = "Counter";
 
 	moves_common_slam = "Ground Slam";
 	moves_common_uppercut = "Uppercut";
 	moves_common_legsweep = "Leg Sweep";
 	moves_common_timestop = "Timestop";
 	moves_common_quicktimestop = "Quick Timestop";
+	moves_common_headbutt = "Headbutt";
 
 
 	-- // Standless
 
 	names_standless = "None";
+	
+	moves_standless_shove = "Shove";
+	moves_standless_kick = "Flying Kick";
+	moves_standless_crackshoot = "Crack Shoot";
+	moves_standless_spit = "Spit";
+	moves_standless_brick = "Brick Throw";
+	moves_standless_rage = "Determination";
+	moves_standless_hotsauce = "Hot Sauce";
 
 
 	-- // Star Platinum
@@ -156,6 +166,9 @@ return {
 	moves_theworld_knives = "Knife Volley";
 	moves_theworld_debris = "Debris Slam";
 	moves_theworld_tandem = "Superior Tandem";
+	moves_theworld_roadroller = "Road Roller!";
+	moves_theworld_timestoppunch = "Timestop Punch";
+	moves_theworld_bloodsuck = "Blood Harvest";
 
 
 	-- // Crazy Diamond
@@ -165,7 +178,6 @@ return {
 	moves_crazydiamond_beatdown = "Dora Pummel";
 	moves_crazydiamond_shoulderbash = "Shoulder Bash";
 	moves_crazydiamond_armswideopen = "Arms Wide Open";
-	moves_crazydiamond_headbutt = "Headbutt";
 	moves_crazydiamond_doublejab = "Double Jab";
 	moves_crazydiamond_bike = "Delivery Star";
 	moves_crazydiamond_cutter = "Blood Cutter";
