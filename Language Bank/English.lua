@@ -137,6 +137,7 @@ return {
 	moves_standless_brick = "Brick Throw";
 	moves_standless_rage = "Determination";
 	moves_standless_hotsauce = "Hot Sauce";
+	moves_standless_combo = "10-Hit Combo";
 
 
 	-- // Star Platinum
