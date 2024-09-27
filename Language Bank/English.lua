@@ -204,6 +204,8 @@ return {
 	moves_whitesnake_swipekick = "Swipe Kick";
 	moves_whitesnake_knee = "Holy Knee";
 	moves_whitesnake_kick = "Dive Kick";
+	moves_whitesnake_discthrow = "Command Disc";
+	moves_whitesnake_frog = "Frog Punt";
 
 
 	-- // Star Platinum: The World
