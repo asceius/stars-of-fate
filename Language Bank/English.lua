@@ -206,6 +206,10 @@ return {
 	moves_whitesnake_kick = "Dive Kick";
 	moves_whitesnake_discthrow = "Command Disc";
 	moves_whitesnake_frog = "Frog Punt";
+	moves_whitesnake_disc = "Disc Steal";
+	moves_whitesnake_inject = "Disc Inject";
+	moves_whitesnake_primes = "Count Primes";
+	moves_whitesnake_counter = "An Illusion";
 
 
 	-- // Star Platinum: The World
