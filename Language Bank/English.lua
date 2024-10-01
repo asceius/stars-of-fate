@@ -106,6 +106,12 @@ return {
 	system_maploader_error_unregistered = "Selected map is not registered! You may experience errors";
 	system_maploader_error_outdated = "Selected map is outdated! You may experience errors";
 	system_maploader_error_invalid = "Selected map does not have a valid version label! You may experience errors";
+	
+	system_standgiver_load = "Please wait for your character to load before swapping stands.";
+	system_standgiver_combat = "You cannot swap stands while in combat.";
+	system_standgiver_hp = "You cannot swap stands when HP is under 90%";
+	system_standgiver_cooldown = "Stand swapping is currently on cooldown";
+	system_standgiver_action = "You cannot swap stands while unactionable.";
 
 
 	-- // Generic / Commonly Shared Moves
