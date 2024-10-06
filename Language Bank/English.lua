@@ -59,6 +59,7 @@ return {
 	settings_misc_gang = "Show Gang Roles";
 	settings_misc_snapshot = "Snapshots";
 	settings_misc_language = "Languages";
+	settings_misc_hdheads = "HD Heads";
 
 
 	-- // Tips
@@ -112,6 +113,9 @@ return {
 	system_standgiver_hp = "You cannot swap stands when HP is under 90%";
 	system_standgiver_cooldown = "Stand swapping is currently on cooldown";
 	system_standgiver_action = "You cannot swap stands while unactionable.";
+	
+	system_die_cooldown = "Dying is currently on cooldown (usable again in %s seconds)"; -- Game will translate %s into a number during runtime
+	system_die_combat = "Cannot reset character while in combat.";
 
 
 	-- // Generic / Commonly Shared Moves
@@ -123,6 +127,7 @@ return {
 	moves_generic_dodge = "Dodge";
 	moves_generic_neutral = "Neutral";
 	moves_generic_counter = "Counter";
+	moves_generic_standjump = "Stand Jump";
 
 	moves_common_slam = "Ground Slam";
 	moves_common_uppercut = "Uppercut";
@@ -156,7 +161,7 @@ return {
 	moves_starplatinum_starbreaker = "Star Breaker";
 	moves_starplatinum_rockthrow = "Rock Throw";
 	moves_starplatinum_soda = "Refreshment";
-	moves_starplatinum_beatdown = "beatdown name";
+	moves_starplatinum_beatdown = "Star Platinum Beatdown";
 	moves_starplatinum_tandem = "Judgement";
 	moves_starplatinum_starfinger = "Star Finger!";
 	moves_starplatinum_launcher = "Star Launcher";
