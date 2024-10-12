@@ -80,6 +80,22 @@
 		"BlacklistId": "34713875",
 	},
 	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "34973264",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "34897133",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "34563426",
+	},
+	{
+		"BlacklistType": "Owner",
+		"BlacklistId": "35023197",
+	},
+	{
 		"BlacklistType": "Accessory",
 		"BlacklistId": "18169374921"
 	},
