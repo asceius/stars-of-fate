@@ -116,6 +116,9 @@ return {
 	
 	system_die_cooldown = "Dying is currently on cooldown (usable again in %s seconds)"; -- Game will translate %s into a number during runtime
 	system_die_combat = "Cannot reset character while in combat.";
+	
+	system_operator_granted = "You have been granted operator level access";
+	system_operator_revoked = "Your operator level access has been revoked";
 
 
 	-- // Generic / Commonly Shared Moves
