@@ -5,6 +5,10 @@
 	},
 	{
 		"BlacklistType": "Owner",
+		"BlacklistId": "14510504"
+	},
+	{
+		"BlacklistType": "Owner",
 		"BlacklistId": "183607678"
 	},
 	{
@@ -154,5 +158,9 @@
 	{
 		"BlacklistType": "Accessory",
 		"BlacklistId": "18208213416"
+	},
+	{
+		"BlacklistType": "Accessory",
+		"BlacklistId": "96139641171194"
 	}
 ]
