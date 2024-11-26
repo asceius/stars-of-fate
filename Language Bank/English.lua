@@ -131,6 +131,7 @@ return {
 	moves_generic_neutral = "Neutral";
 	moves_generic_counter = "Counter";
 	moves_generic_standjump = "Stand Jump";
+	moves_generic_kick = "Kick";
 
 	moves_common_slam = "Ground Slam";
 	moves_common_uppercut = "Uppercut";
@@ -208,6 +209,18 @@ return {
 	-- // D4C
 
 	names_d4c = "D4C";
+	
+	moves_d4c_chop = "Heavy Chop";
+	moves_d4c_barrage = "Chop Barrage";
+	moves_d4c_finisher = "Killing Blow";
+	moves_d4c_investment = "Inanimate Investment";
+	moves_d4c_grab = "Savor it Slowly";
+	moves_d4c_grab2 = "Disciplinary Disposal";
+	moves_d4c_dropkick = "Dramatic Entrance";
+	moves_d4c_gun = "Self-Defense";
+	moves_d4c_headprojectile = "Surprise from the Other Side";
+	moves_d4c_movement = "Dimension Hop";
+	moves_d4c_lovetrain = "D4C: Love Train";
 
 
 	-- // Whitesnake
