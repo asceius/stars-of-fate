@@ -221,6 +221,7 @@ return {
 	moves_d4c_headprojectile = "Surprise from the Other Side";
 	moves_d4c_movement = "Dimension Hop";
 	moves_d4c_lovetrain = "D4C: Love Train";
+	moves_d4c_uppercut = "Clone Uppercut";
 
 
 	-- // Whitesnake
