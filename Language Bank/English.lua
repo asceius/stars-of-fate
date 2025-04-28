@@ -132,6 +132,8 @@ return {
 	moves_generic_counter = "Counter";
 	moves_generic_standjump = "Stand Jump";
 	moves_generic_kick = "Kick";
+	moves_generic_block = "Block";
+	moves_generic_taunt = "Taunt";
 
 	moves_common_slam = "Ground Slam";
 	moves_common_uppercut = "Uppercut";
@@ -276,4 +278,22 @@ return {
 	moves_boxing_lunge = "Straight Lunge";
 	moves_boxing_rapidjab = "Rapid Jab";
 	moves_boxing_tripwire = "Tripwire";
+	
+	
+	-- // Prank-Moon
+	
+	names_prankmoon = "C-Moon";
+	
+	quotes_prankmoon_1 = "It appears that my ability... has evolved!";
+	quotes_prankmoon_2 = "In the name of God I will smite you!";
+	
+	moves_prankmoon_barrage = "Surface Inversion Barrage";
+	moves_prankmoon_heavy = "Gravitational Strike";
+	moves_prankmoon_timeaccel = "Localized Time Acceleration";
+	moves_prankmoon_gravityinversion = "Gravity Inversion";
+	moves_prankmoon_heartinversion = "Heart Inversion";
+	moves_prankmoon_gravityshift = "3 Kilometer Gravity Shift";
+	moves_prankmoon_primes = "Prime Number Counting";
+	moves_prankmoon_dodge = "Gravitational Dodge";
+	moves_prankmoon_dash = "Gravitational Dash";
 }
