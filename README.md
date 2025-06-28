@@ -11,8 +11,8 @@
   `Yes, this is based on Jojo's Bizarre Adventure.`
 </details>
 
-This is a repository for welcoming and returning translators and bug reporters, as well as an archive for changelogs of published versions.
+This is a repository for welcoming and returning translators and bug reporters, as well as releases for open sourced demo builds.
 
-Want to become a translator? Join the [Discord Server](https://discord.gg/R69gW6A) and send a request of the language you could translate for in the #channel-name text channel.
+Want to become a translator? Simply create a fork of this repository and submit a pull request!
 
-Notice a bug in-game? Submit an issue [here](https://github.com/asceius/stars-of-fate/issues).
+Notice a bug in-game? Submit an issue [here](https://github.com/asceius/stars-of-fate/issues) or post it in the #『bug-reports』 channel in our [Discord Server](https://discord.gg/R69gW6A).
