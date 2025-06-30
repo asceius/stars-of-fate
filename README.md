@@ -14,6 +14,6 @@
 
 This is a repository for welcoming and returning translators and bug reporters, as well as releases for open sourced demo builds.
 
-Want to become a translator? Simply create a fork of this repository and submit a pull request!
+Want to become a translator? Simply create a fork of this repository and submit a pull request or submit a .txt file in the #『translation-submissions』 channel in our [Discord Server](https://discord.gg/R69gW6A).
 
 Notice a bug in-game? Submit an issue [here](https://github.com/asceius/stars-of-fate/issues) or post it in the #『bug-reports』 channel in our [Discord Server](https://discord.gg/R69gW6A).
