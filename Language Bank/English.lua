@@ -126,6 +126,7 @@ return {
 	moves_noname = "Unnamed Move";
 	
 	moves_generic_heavy = "Heavy Punch";
+	moves_generic_strongpunch = "Strong Punch";
 	moves_generic_barrage = "Barrage";
 	moves_generic_dodge = "Dodge";
 	moves_generic_neutral = "Neutral";
