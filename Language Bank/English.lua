@@ -225,6 +225,8 @@ return {
 	moves_d4c_movement = "Dimension Hop";
 	moves_d4c_lovetrain = "D4C: Love Train";
 	moves_d4c_uppercut = "Clone Uppercut";
+	moves_d4c_lunge = "Divine Lunge";
+	moves_d4c_light = "Goddess' Fortune";
 
 
 	-- // Whitesnake
