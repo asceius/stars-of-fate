@@ -195,7 +195,7 @@ Please read the list below before playing. You can read a more in-depth list in 
 - Third party scripts and injections will result in an unappealable ban
 - Bug abusing for the sake of game disturbance will result in a ban
 
-Although nothing in here my seem out of the ordinary, we believe in maintaining upmost fairness between players and moderators. Therefore, you are presented our rules before given the chance to break them. Our moderation actions are never taken without evidence.
+Although nothing in here may seem out of the ordinary, we believe in maintaining upmost fairness between players and moderators. Therefore, you are presented our rules before given the chance to break them. Our moderation actions are never taken without evidence.
 ]];
 	
 	guide_credits_loading = "Fetching user info... (refresh this page in a bit)";
