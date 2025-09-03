@@ -1,4 +1,15 @@
 return {
+	intro_language_select = "SELECT THE LANGUAGE YOU PREFER.";
+	intro_language_proceed = "Proceed";
+	
+	intro_sickness_question = "ARE YOU PRONE TO MOTION SICKNESS?";
+	intro_rules_accept = "Accept";
+	
+	intro_play = "Play Game";
+	
+	general_yes = "Yes";
+	general_no = "No";
+	
 	-- // Settings Menu
 
 	settings_submenu_title = "SETTINGS";
@@ -16,6 +27,7 @@ return {
 	settings_audio_effects = "Effects";
 	settings_audio_music = "Music";
 	settings_audio_hitsounds = "Hitsounds";
+	settings_audio_playhitsounds = "Always Play Hitsounds";
 
 	settings_controls_input_buffering = "Input Buffering";
 	settings_controls_input_buffering_time = "Buffer Time";
@@ -24,7 +36,8 @@ return {
 	settings_controls_keybinds_profile = "Keybinds Profile";
 	settings_controls_mobile_input_method = "Input Method (Mobile)";
 	settings_controls_target = "Hold for Target";
-	settings_controls_camera_smoothness = "Camera Smoothness";
+	settings_controls_smooth_camera = "Smooth Camera";
+	settings_controls_combo = "Hold Combo";
 
 	settings_effects_hiteffect = "Hit Effect";
 	settings_effects_barrage = "Barrage Effect";
@@ -46,6 +59,9 @@ return {
 	settings_graphics_impactframes = "Impact Frames";
 	settings_graphics_performance = "Performance Mode";
 	settings_graphics_camweight = "Camera Weight";
+	settings_graphics_cameratilt = "Camera Tilting";
+	settings_graphics_reducedmotion = "Reduced Motion";
+	settings_graphics_clouds = "Clouds";
 
 	settings_misc_age = "Server Age";
 	settings_misc_combo = "Combo Gui";
@@ -59,6 +75,7 @@ return {
 	settings_misc_gang = "Show Gang Roles";
 	settings_misc_snapshot = "Snapshots";
 	settings_misc_language = "Languages";
+	settings_misc_cooldowns = "Hide Cooldowns";
 
 
 	-- // Tips
