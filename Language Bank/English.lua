@@ -423,7 +423,7 @@ The key to this ability is to gain awareness of your comparably slower wind-ups 
 	moves_theworld_bloodsuck = "Blood Harvest";
 	
 	guide_theworld_stats = [[
-Deadly, unyielding and ruling, The World dominates its opposition by overwhelming its opponents with both speed and force, specializing in high damage combos and large variety of tools in its moveset, having something for every situation to come out on top.
+Deadly, unyielding and ruling, The World dominates its opposition by overwhelming its opponents with both speed and force, specializing in high damage combos and a large variety of tools in its moveset, having something for every situation to come out on top.
 Being one of the most complex stands in the game, it prioritizes smart neutral game and difficult to execute but high damage combos to win. In return it forgoes strength in its raw abilities along with longer endlag, forcing the user to strategize and act accordingly, lest being caught off guard after a poor move.
 ]];
 	guide_theworld_neutral = "STANDNAME punches the enemy left hand, right hand, then kicks them away.";
@@ -512,11 +512,11 @@ The key to mastering this ability is generally improving on your ability to win 
 	guide_d4c_chop = "STANDNAME chops the enemy. Can be held down for more damage. Causes bleed if charged fully.";
 	guide_d4c_barrage = "STANDNAME delievers a barrage of quick chops then finishes off with a punch.";
 	guide_d4c_heavy = "STANDNAME charges a devastating chop, dealing more damage the longer it is charged. Causes bleeding when fully charged.";
-	guide_d4c_finisher = "STANDNAME jabs the enemy abdomen, stunning them for a good moment. If the enemy is not dead but below 11% health, STANDNAME will pierce right their body and hide the body in a flag, swapping the move to Inanimate Investment.";
+	guide_d4c_finisher = "STANDNAME jabs the enemy's abdomen, stunning them for a good moment. If the enemy is not dead but below 11% health, STANDNAME will pierce right their body and hide the body in a flag, swapping the move to Inanimate Investment.";
 	guide_d4c_investment = "STANDNAME throws its captured corpse, swapping the move back to Killing Blow. If the body is stored for over a minute, it will rot and become a skeleton resulting in less damage. But even if the body rots, if the body hits the same player you finished with Killing Blow they will take extra damage and explode.";
 	guide_d4c_grab = "You grab the opponent and pull out a version of their head from another dimension then cause the opponent's head and the cloned head to collide, resulting in an explosion.";
 	guide_d4c_grab2 = "STANDNAME picks the enemy up and slams them onto the ground a couple of times then kicks them away.";
-	guide_d4c_dropkick = "You toss a flag into the air and a version of you launches onto the ground, kicking anyone in the way. If you have cards to spare, you can hold the button during impact to have your clone jump off the target and shoot them, dealing more damage and enable combo extension.";
+	guide_d4c_dropkick = "You toss a flag into the air and a version of you launches onto the ground, kicking anyone in the way. If you have cards to spare, you can hold the button during impact to have your clone jump off the target and shoot them, dealing more damage and enabling combo extension.";
 	guide_d4c_gun = "You take out your handgun and load up to 6 bullets into the cylinder. After loading, you shoot your entire cylinder. You can press the block button while loading to save your shots for later.";
 	guide_d4c_headprojectile = "After attacking a target with another move, using this move will have you take out a capitated head of who you attacked. Throwing the head at the victim will cause them to explode.";
 	guide_d4c_movement = "You surround yourself with your flag and disappear, coming back with a version of yourself from a parallel world. If your gun is not already loaded, you will come back with 3 bullets in your chamber or 6 if you have a card to spare and are holding down the button.";
@@ -553,7 +553,7 @@ The ideal way to wield this ability is to use your fast skills to take your enem
 	guide_whitesnake_legsweep = "STANDNAME strikes the opponent's legs twice.";
 	guide_whitesnake_swipekick = "You swipe at the opponent's legs, then STANDNAME kicks them away.";
 	guide_whitesnake_knee = "You grab the enemy's head and strike them with your knee.";
-	guide_whitesnake_discthrow = "You a disc like a frisbee at the enemy, causing them to take damage from the disc for a second.";
+	guide_whitesnake_discthrow = "You throw a disc like a frisbee at the enemy, causing them to take damage from the disc for a second.";
 	guide_whitesnake_frog = "You punt a frog at the enemy, causing it to explode into a poisonous mist.";
 	guide_whitesnake_disc = "STANDNAME staggers the enemy with its shoulder and grabs them. After grabbing them, STANDNAME uses its ability to steal the enemy's spirit disc and kicks them away, swapping the move to Disc Insert. The enemy cannot their stand moves for a bit or until their disc is reinserted back into them.";
 	guide_whitesnake_inject = "STANDNAME inserts its captured disc into the enemy, causing the spirit to fight back against its new host. The attack that follows depends on the disc that was taken. Successfully landing this move swaps it back to Disc Steal.";
