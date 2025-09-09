@@ -248,6 +248,8 @@ Although nothing in here may seem out of the ordinary, we believe in maintaining
 	guide_abilities_cards = "Costs %s cards";
 	guide_abilities_blockdmg = "%s stamina damage on block";
 	guide_abilities_bleed = "%s seconds of bleed";
+	guide_abilities_poison = "%s seconds of poison";
+	guide_abilities_burn = "Engulfs in %s seconds of fire";
 	guide_abilities_bypassblock = "Bypasses block";
 	guide_abilities_ragdolls = "Causes ragdoll";
 	guide_abilities_onhit = "(On hit)";
@@ -434,7 +436,7 @@ Being one of the most complex stands in the game, it prioritizes smart neutral g
 	guide_theworld_kick = "STANDNAME kicks the enemy in the leg, pinning them in place for a moment.";
 	guide_theworld_kick2 = "You quickly spin and kick the enemy.";
 	guide_theworld_sign = "You stylishly toss out a road sign and slam it into the ground.";
-	guide_theworld_knives = "STANDNAME chucks 4 knives forward. If all 4 knives hit the enemy, it causes them to bleed for 5 seconds.";
+	guide_theworld_knives = "STANDNAME chucks 4 knives forward. If all 4 knives hit the enemy, it causes them to bleed.";
 	guide_theworld_debris = "You slam the ground with your fist, causing debris to jump from the ground.";
 	guide_theworld_roadroller = "STANDNAME pulls the enemy into you while you get ready to grab and toss them into the air. While the enemy is in the air, you stop time and slam them with a sudden road roller and repeatedly smash it, pummeling the enemy into the ground. After a few seconds, you deliver one final punch onto the road roller right before time resumes, causing the road roller to explode and send both it and the enemy flying. Deals less damage when used in a combo.";
 	guide_theworld_timestoppunch = "STANDNAME impales the enemy in the stomach. Can only be used while time is stopped and will immediately resume time after usage, even if there are cards left to spare.";
