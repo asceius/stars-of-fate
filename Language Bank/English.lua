@@ -62,6 +62,7 @@ return {
 	settings_graphics_cameratilt = "Camera Tilting";
 	settings_graphics_reducedmotion = "Reduced Motion";
 	settings_graphics_clouds = "Clouds";
+	settings_graphics_tailphysics = "Tail Physics";
 
 	settings_misc_age = "Server Age";
 	settings_misc_combo = "Combo Gui";
@@ -333,7 +334,8 @@ Although nothing in here may seem out of the ordinary, we believe in maintaining
 	moves_common_quicktimestop = "Quick Timestop";
 	moves_common_headbutt = "Headbutt";
 	moves_common_fastkick = "Fast Kick";
-
+	
+	guide_common_standslam = "STANDNAME slams downward with its fist. If it hits the ground, it knocks away everyone in a small radius";
 	guide_common_fastkick = "You quickly kick the enemy.";
 	guide_common_uppercut = "You uppercut the opponent.";
 	guide_common_standuppercut = "STANDNAME briefly manifests to uppercut the enemy.";
@@ -470,10 +472,10 @@ The key to this ability is mastering combining raw skills with regular M1's situ
 ]];
 	guide_crazydiamond_beatdown = "You imbue STANDNAME into your arm and punch the enemy. STANDNAME catches the enemy by the leg and slams them into grab, then delivers a barrage of punches. After a few seconds, STANDNAME rips out the enemy's teeth and moves backwards while activating its restoration ability and readies a punch. STANDNAME then punches the enemy in the face and sends them flying.";
 	guide_crazydiamond_shoulderbash = "You quickly get down on all fours and start running with your shoulder out, knocking out everyone in your path.";
-	guide_crazydiamond_armswideopen = "STANDNAME punches the enemy with both of its fists and finishes off with a punch.";
+	guide_crazydiamond_armswideopen = "STANDNAME uses its arms to pry open an enemy's defenses before finishing with a punch to the jaw.";
 	guide_crazydiamond_doublejab = "STANDNAME quickly appears and punches the enemy twice.";
 	guide_crazydiamond_bike = "You hop on a bike and start driving it. You can hit enemies up to 3 times before the bike explodes. The amount of gas you get with the bike can be slightly extended when used with more cards at your disposal, though the cost of the move is not affected.";
-	guide_crazydiamond_cutter = "STANDNAME uses the blood from your head and instantly solidifies it, turning it into a deadly slicing projectile.";
+	guide_crazydiamond_cutter = "STANDNAME collects a pool of the user's blood in its hand before hurling it forward in a slicing motion, creating a pressurized blood projectile.";
 	guide_crazydiamond_glass = "STANDNAME shoots a diamond-shaped glass shard. If it hits an enemy, STANDNAME will shoot another glass shard into the air. After a moment, the second glass shard will redirect at the target of the first shard and ragdoll them.";
 	guide_crazydiamond_heal = "STANDNAME tags a target and starts healing them. The healing rate can be increased by continuously healing the same target and keeping a close distance.";
 	guide_crazydiamond_rage = "After dropping below 30% of your health, you are put on a 10 second timer before going into a fit of rage. You can enter rage mode early by using this move while the red rage cloud is visible or you can cancel rage mode by somehow healing to above 30%. While enraged, you gain a 1.5x damage boost on all attacks.";
@@ -525,7 +527,7 @@ The key to mastering this ability is generally improving on your ability to win 
 	guide_d4c_lovetrain = "You call upon the holy corpse for a blessing, creating a barrier between you and the outside world. You cannot be harmed while the barrier is active. Using this move will put you into a blessed state, indicated by the crown of light, alternating your immediate moveset and granting slight damage reduction to attacks while passively draining your entire card reserve. You can press the button again while blessed to toggle the light barrier and enable/disable the usage of other moves.";
 	guide_d4c_uppercut = "You use your flag to summon a clone of yourself from a parallel world, who then quickly uppercuts the opponent.";
 	guide_d4c_lunge = "You use the light barrier to glide yourself across the ground with your fist forward.";
-	guide_d4c_light = "STANDNAME uses the light barrier to shoot a beam of misfortunte. When used while Love Train is active, STANDNAME charges the light while depleting your entire card reserve. After charging, STANDNAME creates a massive blast of light.";
+	guide_d4c_light = "STANDNAME uses the light barrier to shoot a beam of misfortunte, causing its target to burn. When used while Love Train is active, STANDNAME charges the light while depleting your entire card reserve. After charging, STANDNAME creates a massive blast of light and vaporizes everyone within it, inflicting bleed on top of extended burn.";
 	guide_d4c_strongpunch = "You imbue STANDNAME into your left arm and punch with all your might.";
 	
 
@@ -649,4 +651,35 @@ The key to success is overcoming the handicap of your reduced range, learning to
 	moves_prankmoon_primes = "Prime Number Counting";
 	moves_prankmoon_dodge = "Gravitational Dodge";
 	moves_prankmoon_dash = "Gravitational Dash";
+	
+	
+	-- // Vampire
+	
+	names_vampire = "The Vampire King";
+	
+	moves_vampire_grab = "Bloody Pummel";
+	moves_vampire_barrage = "Hypersonic Rush";
+	moves_vampire_heavy = "Crimson Slice";
+	moves_vampire_hypnosis = "Hypnosis";
+	moves_vampire_kick = "Great Flight";
+	moves_vampire_freeze = "Vaporization Freezing Technique";
+	moves_vampire_eyes = "Space Ripper Stingy Eyes";
+	moves_vampire_bud = "Flesh Bud";
+	moves_vampire_slam = "Superhuman Slam";
+	
+	guide_vampire_stats = [[
+You toss aside your humanity for a greater power, becoming an immortal vampire in the process.
+Your toolkit is optimized to the absolute for destruction and agility. Vampirism grants bodily manipulation, with adjusting your body temperature to critical degrees being some of the deadliest techniques.
+The best way to make this ability shine is by overwhelming your opponent with attacks and movement.
+]];
+	guide_vampire_neutral = "You swipe with your right hand, jab with your left hand, then kick the enemy away.";
+	guide_vampire_grab = "You grab the enemy and slice their neck then toss them away.";
+	guide_vampire_barrage = "You slide to the enemy and unleash a flurry of attacks, finishing off with a kick.";
+	guide_vampire_heavy = "You chop the enemy with both of your hands. Can be held for more damage. Causes bleeding when fully charged.";
+	guide_vampire_hypnosis = "You take a stance then create a small discharge with your eyes, disabling the enemy for a moment.";
+	guide_vampire_kick = "You quickly knee the enemy into the air then jump at them while they're airborne. You then kick the enemy into the ground. You can buffer a move before the second kick to perform the buffered move at the end of the jump instead.";
+	guide_vampire_freeze = "You take a defensive stance and cover your body in ice. If attacked by a physical move, you freeze the attacker in place and dropkick them.";
+	guide_vampire_eyes = "You charge the water in your eyes and fire two beams of pressurized liquid from them, piercing everyone in the way.";
+	guide_vampire_bud = "You create a small organism with your own cells and toss it. If it lands on anyone, the bud will attach to the brain of its new host and spit out 3 puddles of blood over time which can be absorbed by any vampire that walks over it, including yourself. The only exception is the bud's host.";
+	guide_vampire_slam = "You jump into the air then slam the ground with your fist. If used in the air, you perform a dropkick instead. Dropkicking an airborne enemy will attach them to your foot and kill them instantly if they are below 17% health.";
 }
