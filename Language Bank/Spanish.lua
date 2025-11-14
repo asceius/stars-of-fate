@@ -1,12 +1,12 @@
 return {
 	intro_language_select = "SELECCIONA EL IDIOMA QUE PREFIERAS.";
 	intro_language_proceed = "Proceder";
-
+	
 	intro_sickness_question = "¿Eres propenso al mareo?";
 	intro_rules_accept = "Aceptar";
-
+	
 	intro_play = "Jugar";
-
+	
 	general_yes = "Sí";
 	general_no = "No";
 
@@ -105,10 +105,10 @@ return {
 
 	tips_rker = "Recuerda, matar al azar no existe en un juego de pelea como este.";
 
-	-- // Guide
+    -- // Guide
 
-	guide_rules = "Reglas del Juego";
-
+    guide_rules = "Reglas del Juego";
+	
 	guide_index_tutorial_button = "Tutorial";
 	guide_tutorial_gettingstarted_button = "Para Empezar";
 	guide_tutorial_controls_button = "Controles";
@@ -206,7 +206,7 @@ Lee la lista a continuación antes de jugar. Puedes consultar una lista más det
 
 Aunque nada aquí pueda parecer fuera de lo común, creemos en mantener la máxima equidad entre jugadores y moderadores. Por lo tanto, te presentamos nuestras reglas antes de que tengas la oportunidad de romperlas. Nuestras acciones de moderación nunca se toman sin pruebas del hecho.
 ]];
-
+	
 	guide_credits_loading = "Obteniendo información del usuario... (actualiza esta página en unos momentos)";
 	guide_credits_error = "No se pudieron obtener los datos del usuario. Los servidores de ROBLOX podrían estar inactivos.";
 	guide_credits_development = "Equipo de desarrollo:";
@@ -228,7 +228,7 @@ Aunque nada aquí pueda parecer fuera de lo común, creemos en mantener la máxi
 	guide_credits_balance = "Balance de PvP";
 	guide_credits_dependencies = "Proveedor de dependencias";
 	guide_credits_translator = "Traductor";
-
+	
 	guide_abilities_maxhealth = "%s Salud Máxima"; -- Game will translate %s into a number during runtime
 	guide_abilities_buttons = "Inputs:";
 	guide_abilities_states = "Estados:";
@@ -240,9 +240,9 @@ Aunque nada aquí pueda parecer fuera de lo común, creemos en mantener la máxi
 	guide_abilities_cards = "Cuesta %s cartas";
 	guide_abilities_blockdmg = "%s daño a estamina al bloquear";
 	guide_abilities_bleed = "%s segundos de sangrado";
-	guide_abilities_bypassblock = "Atraviesa el bloqueo";
-	guide_abilities_poison = "%s segundos de veneno";
+    guide_abilities_poison = "%s segundos de veneno";
 	guide_abilities_burn = "Envuelve en %s segundos de quemadura";
+	guide_abilities_bypassblock = "Atraviesa el bloqueo";
 	guide_abilities_ragdolls = "Causa ragdoll";
 	guide_abilities_onhit = "(Al golpear)";
 	guide_abilities_charged = "(Al cargar)";
@@ -267,7 +267,7 @@ Aunque nada aquí pueda parecer fuera de lo común, creemos en mantener la máxi
 
 	-- // System Messages
 
-	system_voice_system = "[SISTEMA]";
+    system_voice_system = "[SISTEMA]";
 	system_voice_console = "[CONSOLA]";
 
 	system_settings_snapshot_warning = "Las opciones de Snapshot son experimentales y no se guardarán a través de servidores.";
@@ -275,30 +275,29 @@ Aunque nada aquí pueda parecer fuera de lo común, creemos en mantener la máxi
 	system_maploader_error_unregistered = "¡El mapa seleccionado no está registrado! Puede que sufras errores.";
 	system_maploader_error_outdated = "¡El mapa seleccionado es viejo! Puede que sufras errores.";
 	system_maploader_error_invalid = "¡El mapa seleccionado no tiene una etiqueta de versión válida! Puede que sufras errores";
-
+	
 	system_standgiver_load = "Por favor, espera a que tu personaje se cargue antes de cambiar de stand";
 	system_standgiver_combat = "No puedes cambiar de stand durante el combate.";
 	system_standgiver_hp = "No puedes cambiar de stand cuando tu salud esta bajo del 90%";
 	system_standgiver_cooldown = "El cambio de stand se encuentra actualmente en cooldown";
 	system_standgiver_action = "No puedes cambiar de stand mientras no puedas actuar.";
 	system_standgiver_timestop = "No puedes cambiar stands mientras estás congelado/a en timestop";
-
+	
 	system_die_cooldown = "Morir se encuentra actualmente en cooldown (se podrá volver a utilizar en %s segundos)";
 	system_die_combat = "No puedes reiniciar tu personaje durante el combate.";
-
+	
 	system_operator_granted = "Se te ha concedido acceso de nivel de operador";
 	system_operator_revoked = "Tu acceso a nivel de operador ha sido revocado";
 
 
 	-- // Generic / Commonly Shared Moves
-
+	
 	moves_timestop = "Timestop Global";
-
-	moves_generic_dodge = "Esquivar";
-	moves_generic_counter = "Counter";
+	
+    moves_generic_dodge = "Esquivar";
 	moves_generic_block = "Bloqueo";
 	moves_generic_taunt = "Burla";
-
+	
 	guide_generic_heavy = "Cargas un golpe devastador y luego lo sueltas, causando más daño cuanto más tiempo esté cargado.";
 	guide_generic_kick = "Pateas al enemigo.";
 	guide_generic_standkick = "STANDNAME patea al enemigo.";
@@ -312,7 +311,7 @@ Aunque nada aquí pueda parecer fuera de lo común, creemos en mantener la máxi
 	guide_common_standuppercut = "STANDNAME se manifiesta brevemente para asestar un uppercut al enemigo.";
 	guide_common_timestop = "Adoptas una postura y creas una burbuja enorme que dura hasta STOPPEDTIME segundos. Cualquiera que entre en ella quedará congelado en timestop hasta que este se acabe. Si quedas atrapado en la burbuja de otra persona, puedes usar tu proprio timestop para descongelarte y potencialmente tomar el control de la burbuja.";
 	guide_common_quicktimestop = "Posas rápidamente y desapareces a cierta distancia de tu posición actual. Puedes reajustar tu objetivo moviéndote en una dirección específica.";
-
+	
 	guide_common_trip = "Haces tropezar al enemigo.";
 
 	-- // Standless
@@ -336,7 +335,7 @@ Tus habilidades son excelentes en general; la mayoría son rápidas o fuertes, a
 
 
 	-- // Star Platinum
-
+	
 	guide_starplatinum_stats = [[
 Una potencia de fuerza bruta, Star Platinum diezma a sus enemigos con golpes potentes que pueden ser difíciles de defender.
 Star Platinum es una habilidad bastante sencilla, cuya característica única es ofrecer habilidades de uso básico más lentas, pero más impactantes e implacables. Star Platinum es particularmente bueno contra bloqueos, gracias a que gran parte de su conjunto de habilidades lo rompe o lo ignora directamente.
@@ -356,7 +355,7 @@ La clave de esta habilidad es ser consciente de tus ataques preparativos y compa
 
 
 	-- // The World
-
+	
 	guide_theworld_stats = [[
 Letal, implacable y dominante, The World domina a sus oponentes abrumando a sus oponentes con velocidad y fuerza, especializándose en combos de alto daño y una gran variedad de herramientas en su repertorio de movimientos, con algo para cada situación.
 Al ser uno de los stands más complejos del juego, prioriza el juego neutral inteligente y combos difíciles de ejecutar pero de alto daño para ganar. A cambio, renuncia a la fuerza de sus habilidades básicas y a un endlag más prolongado, obligando al usuario a planificar y actuar en consecuencia, para evitar ser sorprendido despues de un mal movimiento.
@@ -375,10 +374,10 @@ Al ser uno de los stands más complejos del juego, prioriza el juego neutral int
 	guide_theworld_timestoppunch = "STANDNAME empala al enemigo en el estómago. Solo se puede usar mientras el tiempo está detenido y se reanuda inmediatamente después de su uso, incluso si te quedan cartas de sobra.";
 	guide_theworld_bloodsuck = "STANDNAME atrapa al enemigo y lo atrae hacia tus dedos. Luego absorbes su vida y lo pateas.";
 	guide_theworld_counter = "Adoptas una postura rápida. Si te atacan mientras posas, detienes el tiempo rápidamente y reapareces detrás del atacante, atacándolo de manera instantánea";
-
+	
 
 	-- // Crazy Diamond
-
+	
 	guide_crazydiamond_stats = [[
 Una combinación de poder y velocidad, Crazy Diamond usa su flexible conjunto de habilidades y potentes golpes para atacar y defenderse casi simultáneamente.
 Su habilidad principal es la restauración, que puede restaurar un objeto a su estado anterior (a menos que su objetivo ya haya fallecido). Si se usa incorrectamente, Crazy Diamond también puede desfigurar un objeto.
@@ -400,10 +399,10 @@ La clave de esta habilidad es dominar la combinación de habilidades básicas co
 	guide_crazydiamond_rageuppercut = "STANDNAME gira y le aplica un uppercut al enemigo.";
 	guide_crazydiamond_slam = "STANDNAME golpea el suelo con ambos puños, haciendo volar a los enemigos.";
 	guide_crazydiamond_headbutt = "STANDNAME aparece, patea al enemigo y luego le da un cabezazo.";
-
+	
 
 	-- // D4C
-
+	
 	guide_d4c_stats = [[
 Estratégico, calculador y, quizás lo más importante, bendecido, D4C muestra una destreza particular en combos potentes y un alto potencial de daño.
 La habilidad principal de D4C es viajar a dimensiones paralelas intercalándose entre dos objetos (normalmente mediante la bandera de su usuario). Los mismos objetos de mundos paralelos no pueden coexistir e intentarán fusionarse, pero provocarán una catástrofe. Sin embargo, D4C y su usuario son la excepción a esta regla, permitiéndoles viajar libremente.
@@ -427,10 +426,10 @@ La clave para dominar esta habilidad reside, por lo general, en mejorar tu capac
 	guide_d4c_lunge = "Usas la barrera de luz para deslizarte por el suelo con el puño hacia adelante.";
 	guide_d4c_light = "STANDNAME usa la barrera de luz para disparar un rayo de desgracia. Al usarlo con Love Train activo, STANDNAME carga la luz mientras agota toda la reserva de cartas. Tras cargar al máximo, STANDNAME crea una enorme explosión de luz.";
 	guide_d4c_strongpunch = "Imbuyes STANDNAME en tu brazo izquierdo y golpeas con todas tus fuerzas.";
-
+	
 
 	-- // Whitesnake
-
+	
 	guide_whitesnake_stats = [[
 Astuto y oportunista, Whitesnake usa su arsenal para aprovechar las amplias oportunidades de ataque de oponentes agresivos y provocar ataques que dejan a la víctima vulnerable.
 Whitesnake tiene dos habilidades principales: expulsar las propiedades de alguien en un disco (Stands, personalidades, visión, etc.) y poner a los objetivos en coma con una sustancia viscosa. Whitesnake también tiene su propia personalidad y consciencia, lo que le permite operar a plena capacidad a bastante distancia de su usuario.
@@ -448,10 +447,10 @@ La forma ideal de usar este Stand es usar tus habilidades rápidas para sorprend
 	guide_whitesnake_inject = "STANDNAME inserta el disco capturado en el enemigo, lo que provoca que el espíritu contraataque a su nuevo huésped. El ataque posterior depende del disco capturado. Al ejecutar este movimiento con éxito, se convierte de nuevo en Disc Steal.";
 	guide_whitesnake_primes = "Te agachas y recuperas la compostura contando números primos. Recuperas salud y ganas cartas.";
 	guide_whitesnake_counter = "Tú y STANDNAME posan. Si te atacan mientras posas, tu clon falso desaparece en la niebla mientras tú reapareces tras el enemigo.";
-
+	
 
 	-- // Star Platinum: The World
-
+	
 	guide_starplatinumtheworld_stats = [[
 Una versión más veloz, aunque aún devastadora, de su contraparte original, Star Platinum: The World usa su velocidad y variedad de ataques para abrumar al enemigo.
 Star Platinum: The World es quizás la habilidad más simple de todas, con un conjunto de movimientos simple pero altamente efectivo, ideal para cualquier situación. Este Stand es una combinación de élite de golpes potentes, capacidad de supervivencia y potencial de combo.
@@ -466,13 +465,13 @@ La clave de esta habilidad es saber identificar el momento preciso para usar cad
 	guide_starplatinumtheworld_burst = "Mientras usas un ataque de usuario, STANDNAME lanza una ráfaga de golpes durante un segundo.";
 	guide_starplatinumtheworld_campfire = "STANDNAME usa tablas de madera para crear una fogata. No requiere cartas cuando se usa durante timestop.";
 	guide_starplatinumtheworld_counter = "Adoptas una pose rápidamente. Si te atacan, reapareces detrás del atacante y lo atacas. Si estás demasiado lejos, detienes el tiempo brevemente.";
-
+	
 
 	-- // Spin
 
 
 	-- // Boxing
-
+	
 	guide_boxing_stats = [[
 Con su agilidad inigualable y su temible poder de ataque, Boxing se especializa en atacar, presionando a los oponentes hasta que flaquean.
 Boxing es una de las habilidades disponibles mecánicamente más simples, pero requiere un estilo de juego mucho más agresivo y activo para aprovechar su velocidad. Es casi tan competente contra a los enemigos que bloquean como Star Platinum, aunque es más rápido, pero con un alcance significativamente menor. La habilidad única de Boxing es un Esquive especial diseñado para ser más difícil de predecir y reaccionar, y una mayor ganancia de medidor de todas las fuentes.
@@ -490,10 +489,29 @@ La clave del éxito es superar la desventaja de su alcance reducido, aprender a 
 	guide_boxing_lunge = "Te preparas para atacar con fuerza y ​​te posicionas mientras cargas un puñetazo devastador. Tras cargar, te lanzas hacia adelante y arrasas con todos los que se interponen en tu camino. Puedes lanzar un puñetazo más débil antes de tiempo presionando la tecla de nuevo, o cancelar el movimiento por completo presionando el botón de bloqueo. Este ataque no se puede usar en estado de furia.";
 	guide_boxing_rapidjab = "Atrapas al enemigo y lanzas una ráfaga de golpes.";
 	guide_boxing_tripwire = "Golpeas las piernas del enemigo y lo lanzas al aire.";
-
-
+	
+	
 	-- // Prank-Moon
 	
 	quotes_prankmoon_1 = "¡Parece que mi habilidad... ha evolucionado!";
 	quotes_prankmoon_2 = "¡En el nombre de Dios te castigaré!";
+
+
+-- // Vampire
+	
+	guide_vampire_stats = [[
+Renuncias a tu humanidad por un poder superior, convirtiéndote en un vampiro inmortal.
+Tu arsenal está optimizado al máximo para la destrucción y la agilidad. El vampirismo otorga manipulación corporal, siendo ajustar tu temperatura corporal a niveles críticos una de las técnicas más letales.
+Vampirismo es una habilidad muy centrada en los combos, ya que depende de ellos para la mayor parte de su daño, posee un alto daño en combos y algunas habilidades cuyo uso imprudente no siempre es seguro. La mejor manera de sacarle el máximo partido a esta habilidad es abrumar al oponente con ataques y movimiento, teniendo en cuenta el largo endlag de algunos ataques y priorizando siempre tus ataques básicos (M1).
+]];
+	guide_vampire_neutral = "Deslizas tu mano derecha, golpeas con la mano izquierda y luego pateas al enemigo para alejarlo.";
+	guide_vampire_grab = "Agarras al enemigo, le cortas el cuello y luego lo arrojas lejos.";
+	guide_vampire_barrage = "Te deslizas hacia el enemigo y desatas una ráfaga de ataques, rematando con una patada.";
+	guide_vampire_heavy = "Atacas al enemigo con ambas manos. Puedes mantener pulsada la tecla para infligir más daño. Provoca sangrado al cargarse por completo.";
+	guide_vampire_hypnosis = "Adoptas una postura y luego creas una pequeña descarga hipnotizante con los ojos, incapacitando al enemigo por un corto momento.";
+	guide_vampire_kick = "Lanzas al enemigo rápidamente por los aires con la rodilla y saltas hacia él mientras está en el aire. Luego, lo pateas contra el suelo. Puedes preparar una habilidad antes de la segunda patada para ejecutarla al final del salto, en lugar de la patada regular.";
+	guide_vampire_freeze = "Adoptas una postura defensiva y cubres tu cuerpo en hielo. Si te atacan con una habilidad física, congelas al atacante y le propinas una patada voladora.";
+	guide_vampire_eyes = "Cargas el agua en tus ojos y disparas dos rayos de líquido a presión desde ellos, atravesando y dañando a todo aquel que se interponga en tu camino.";
+	guide_vampire_bud = "Creas un pequeño organismo con tus propias células y lo lanzas. Si cae sobre alguien, el brote se adherirá al cerebro de su nuevo huésped y, con el tiempo, expulsará tres charcos de sangre que cualquier vampiro que los pise, incluido tú, podrá absorber. La única excepción es el huésped del brote.";
+	guide_vampire_slam = "Saltas y golpeas el suelo con el puño. Si lo haces en el aire, realizas una patada voladora. Si un enemigo en el aire afectado por Great Flight tiene menos del 17 % de salud, la patada voladora lo matará al instante.";
 }
